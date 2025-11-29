@@ -5,3 +5,5 @@ this is feature mbranch of git practice
 
 
 this is git hub practice commit
+
+this is second commit of hithub to conflict 
