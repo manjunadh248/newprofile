@@ -13,3 +13,9 @@ this is second commit of hithub to conflict
 
 this is git second command for conflict 
 
+
+this where normal commit works 
+
+
+
+
